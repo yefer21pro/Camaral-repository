@@ -1,4 +1,4 @@
-# Camaral ChatBot (MVP)
+# Camaral ChatBot
 
 Aplicación web tipo chat para responder preguntas sobre **Camaral** (compañia de agentes de Ia para ventas e interaccion con el usuario), usando una **base de conocimiento controlada** (`data/knowledge.md`) y un modelo de IA (**Google Gemini**).
 
